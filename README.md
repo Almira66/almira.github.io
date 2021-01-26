@@ -1,1 +1,1 @@
-# almira_hexo_blog.github.io
+# almira.github.io
